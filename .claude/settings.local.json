@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk 'NR==1{print length\\($0\\)}' /Users/idea/cat/_avatars_base64.txt)",
+      "Bash(awk -F: '{print $1}' /Users/idea/cat/_avatars_base64.txt)",
+      "Bash(python3 -c ' *)",
+      "Read(//tmp/**)",
+      "Bash(python3 *)",
+      "Bash(node -c /Users/idea/cat/index.html)",
+      "Bash(node --check /tmp/test_game.js)"
+    ]
+  }
+}
