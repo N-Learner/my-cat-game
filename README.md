@@ -6,9 +6,9 @@
 > 这是一款将马卡龙视觉与硬核 Phonk 节奏完美融合的 H5 物理解压游戏。
 
 ## 🎮 在线试玩
-[👉 点击这里立即开玩（建议用手机打开）](#) 
-*(此处可放你的 GitHub Pages 链接或二维码图片)*
+<img width="240" height="240" alt="2651777142546_ pic_thumb" src="https://github.com/user-attachments/assets/a1884361-6651-4d56-ab6d-33ce2f348814" />
 
+抖音扫码游玩哦
 ---
 
 ## ✨ 核心特性
