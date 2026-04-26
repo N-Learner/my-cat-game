@@ -7,7 +7,9 @@
       "Read(//tmp/**)",
       "Bash(python3 *)",
       "Bash(node -c /Users/idea/cat/index.html)",
-      "Bash(node --check /tmp/test_game.js)"
+      "Bash(node --check /tmp/test_game.js)",
+      "Bash(node --input-type=module)",
+      "Bash(grep *)"
     ]
   }
 }
